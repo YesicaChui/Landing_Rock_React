@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <Header />
-      <Banner />
+      <Header  />
+      <Banner  />
       <ListInformation/>
       
       <Footer />
