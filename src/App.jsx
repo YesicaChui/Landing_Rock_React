@@ -13,10 +13,7 @@ function App() {
       <ListInformation/>
       
       <Footer />
-      <img src={rock1} alt="" />
-      <div className="text-center" style={{backgroundImage:`url(${rock1})`}}>
-        hola
-      </div>
+  
     </>
   )
 }
